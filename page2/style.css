@@ -7,6 +7,7 @@
     border:1px solid black;
     border-radius:30px;
     position:relative;
+    text-align:center;
 }
 .item {
     width: 95%;
@@ -77,6 +78,8 @@
     margin: auto;
 }
 
-
-
+a{
+	 text-decoration:none;
+	
+}
 
